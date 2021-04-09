@@ -1,1 +1,16 @@
-# Tong-ty.github.io
+# 计算机科学与编程入门课程第二次作业
+## 1800016916 童天阳
+## 1.作业1
+用词云图、柱状图、折线图对上一次作业中对《水浒传》的词频统计结果进行了可视化
+
+[作业1链接](https://Tong-ty.github.io/word_frequency.html)
+
+## 2.作业2
+用地理连线图对本人高中班级同学毕业去向进行了可视化
+
+[作业2链接](https://Tong-ty.github.io/geo.html)
+
+## 3.作业3
+用世界地图对2021全球各国人均寿命进行了可视化
+
+[作业3链接](https://Tong-ty.github.io/world_map.html)
