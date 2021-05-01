@@ -21,14 +21,14 @@
 ## 1.作业1
 调用了力导向图的库，分析人物关系图
 
-[作业1链接](file:///Volumes/CHEERING/TTY/%E6%B0%B4%E6%B5%92%E4%BC%A0.html)
+[作业1链接](https://Tong-ty.github.io/水浒传.html)
 
 ## 2.作业2
 把百度的页面截图成了背景，把搜索栏移到对应的位置上
 
-[作业2链接](file:///Volumes/CHEERING/TTY/baidu.html)
+[作业2链接](https://Tong-ty.github.io/baidu.html)
 
 ## 3.作业3
 用水浒传的文字内容，配图并更换背景
 
-[作业3链接](file:///Volumes/CHEERING/TTY/%E6%96%87%E5%AD%97.html)
+[作业3链接](https://Tong-ty.github.io/文字.html)
